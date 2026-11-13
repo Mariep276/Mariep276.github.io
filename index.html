@@ -4,17 +4,22 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Marline Pierre Pierre | Web Developer Portfolio</title>
-<link rel="stylesheet" href="app.css">.                                 
+<link rel="stylesheet" href="app.css">                                
  </head>
  <body>
     <header>
+<img src="images/logo.png" alt="MPP Web Developer Logo">
+
+ <div>     
 <h1>Marline Pierre Pierre</h1>
 <nav>
-  <a href="#about">About Me</a>
+  
+    <a href="#about">About Me</a>
   <a href="#skills">Technical Skills</a>
   <a href="#projects">My Projects</a>
 </nav>
 <h2>Aspiring Web Developer</h2>
+</div>
 </header>
 <main>
 <p> 
@@ -99,6 +104,21 @@ developer and continue expanding my skills.
 </p>
 </div>
 </div>
+<section id="contact">
+    <h2>Contact Me</h2>
+    <p>Have a question or want to connect? Send me a message!</p>
+    <form id="contactForm">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" required>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" required>
+        <label for="subject">Subject</label>
+        <input type="text" id="subject" name="subject" required>
+        <label for="message">Message</label>
+        <textarea id="message" name="message" rows="6" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
 </main>
 <footer>
  <p>&copy; 2026 Marline Pierre Pierre. All Rights Reserved.</p>
