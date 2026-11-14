@@ -78,7 +78,7 @@ border: 1px solid #D4A843;
 #contact {
     text-align: center;
 }
-#contactForm {
+#contactform {
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -98,7 +98,7 @@ header > div {
 text-align: center
 
 }
-#contactForm button {
+#contactform button {
     background-color: #52665B;
  color: #D4AF70;
     border: 2px solid #D4AF70;
@@ -108,15 +108,20 @@ text-align: center
     border-radius: 6px;
     cursor: pointer;
 }
-#contactForm input,
-#contactForm textarea {
+#contactform input,
+#contactform textarea {
     background-color: #FFF9EF;
     color: #102B4E;
     border: 1px solid #D4AF70;
     border-radius: 6px;
     padding: 10px;
 }
-#contactForm label {
+#contactform label {
     color: #D4AF70;
     font-weight: bold;
+}
+.project-card h3 a, 
+.project-card h3 a:visited {
+    color: #D4AF70;
+    text-decoration: none;
 }
