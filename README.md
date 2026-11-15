@@ -3,9 +3,10 @@ Welcome to my Personal portfolio.
  
 ## About Me
 
-I am currently studying Mobile Web Development.
-I enjoy creating beautiful and responsive websites.
-My goal is to become a professional web developer.
+ I am an aspiring web developer currently studying Mobile Web Development.
+I enjoy designing elegant, responsive, and user-friendly websites.
+My goal is to build professional digital experiences that combine creativity, 
+functionality, and accessibility.
 
 ## Technical Skills 
 
