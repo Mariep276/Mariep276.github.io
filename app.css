@@ -125,3 +125,12 @@ text-align: center
     color: #D4AF70;
     text-decoration: none;
 }
+/* Smooth hover effect for project cards */
+.project-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 8px 20px rgba(212, 175, 112, 0.35);
+}
