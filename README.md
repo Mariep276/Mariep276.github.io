@@ -1,6 +1,6 @@
 # Mariep276.github.io
-Personal portfolio website showcasing my web development skills, projects, and creative work.
-
+Welcome to my Personal portfolio.
+ 
 ## About Me
 
 I am currently studying Mobile Web Development.
