@@ -20,4 +20,11 @@ My goal is to become a professional web developer.
 - Adobe Illustrator
 - Adobe Photoshop
 
+## My Projects 
 
+- [ÉLISE Haute Couture](https://mariep276.github.io/elise-haute-couture/)
+- [Gentlemen's Sanctuary](https://mariep276.github.io/gentlemens-sanctuary/)
+- [Paws & Hearts Pet Adoption](https://mariep276.github.io/paws-and-hearts-pet-adoption/)
+- [Maison Pierry Bridal](https://mariep276.github.io/maison-pierry-bridal/)
+- [The Grand Escape Airlines](https://mariep276.github.io/the-grand-escape-airlines/)
+- [Caribbean Gourmet Restaurant](https://mariep276.github.io/caribbean-gourmet-restaurant/)
