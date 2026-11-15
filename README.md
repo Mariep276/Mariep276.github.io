@@ -19,6 +19,7 @@ My goal is to become a professional web developer.
 - WordPress
 - Adobe Illustrator
 - Adobe Photoshop
+- Version Control & Collaboration
 
 ## My Projects 
 
