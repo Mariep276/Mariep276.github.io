@@ -28,3 +28,8 @@ My goal is to become a professional web developer.
 - [Maison Pierry Bridal](https://mariep276.github.io/maison-pierry-bridal/)
 - [The Grand Escape Airlines](https://mariep276.github.io/the-grand-escape-airlines/)
 - [Caribbean Gourmet Restaurant](https://mariep276.github.io/caribbean-gourmet-restaurant/)
+
+## Contact
+
+If you wish to contact me feel free to reach out to me on my portfolio,
+on my contact section, I'll be delighted to help.
